@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Attender</string>
+
+    <string-array name="semester">
+        <item>SEMESTER</item>
+        <item>4</item>
+        <item>8</item>
+    </string-array>
+
+    <string-array name="batch">
+        <item>BATCH/CLASS</item>
+        <item>FULL CLASS</item>
+        <item>BATCH A</item>
+        <item>BATCH B</item>
+        <item>BATCH C</item>
+        <item>BATCH D</item>
+    </string-array>
+
+    <string-array name="classType">
+        <item>CLASS TYPE</item>
+        <item>Theory</item>
+        <item>Tutorial</item>
+        <item>Practical</item>
+    </string-array>
+
+    <string-array name="lectureType">
+        <item>LECTURE</item>
+        <item>Regular</item>
+        <item>Extra 1</item>
+        <item>Extra 2</item>
+        <item>Extra 3</item>
+    </string-array>
+
+    <string name="title_activity_view">View</string>
+    <string name="title_activity_view_att">ViewAtt</string>
+    <string name="title_activity_attendance">AttendanceActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
